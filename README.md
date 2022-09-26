@@ -2,8 +2,8 @@
 
 ## Installation
 
-``` sh
-FRESH_LOCAL_SOURCE=gunjx/dotfiles bash -c "`curl -sL get.freshshell.com`"
+```sh
+FRESH_LOCAL_SOURCE=Rebonace/dotfiles bash -c "`curl -sL get.freshshell.com`"
 chsh -s /bin/zsh
 ```
 
@@ -11,7 +11,7 @@ chsh -s /bin/zsh
 
 Helper to refresh:
 
-``` sh
+```sh
 refresh
 ```
 
